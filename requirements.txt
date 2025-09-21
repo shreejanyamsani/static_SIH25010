@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+pillow
+opencv-python
+plotly
+matplotlib
+seaborn
+datetime
+pathlib
+os
+io
+base64
+scikit-learn
+requests
+json
