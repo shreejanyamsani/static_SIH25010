@@ -1,0 +1,16 @@
+crop_name,soil_type,season,water_requirement,temperature_range,yield_per_acre,profitability_score,growth_duration_days
+Rice,Clay,Kharif,High,25-35°C,25,7.5,120
+Wheat,Loamy,Rabi,Medium,15-25°C,30,8.2,150
+Cotton,Sandy,Kharif,Medium,20-30°C,8,6.8,180
+Tomato,Loamy,Summer,High,18-29°C,40,9.1,90
+Potato,Sandy Loam,Winter,Medium,15-20°C,35,7.8,100
+Sugarcane,Clay,Annual,Very High,26-32°C,80,8.5,365
+Maize,Loamy,Kharif,Medium,21-27°C,28,7.9,110
+Soybean,Clay Loam,Kharif,Low,20-30°C,15,6.9,120
+Onion,Sandy Loam,Rabi,Medium,16-25°C,25,8.0,140
+Chili,Loamy,Summer,High,20-30°C,12,8.8,120
+Mustard,Loamy,Rabi,Low,18-25°C,8,7.2,130
+Groundnut,Sandy,Kharif,Medium,22-28°C,18,7.5,130
+Turmeric,Clay Loam,Annual,High,20-30°C,20,8.3,300
+Ginger,Clay,Kharif,High,25-30°C,15,9.2,240
+Garlic,Sandy Loam,Rabi,Medium,15-20°C,8,8.1,150

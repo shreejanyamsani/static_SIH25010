@@ -1,0 +1,16 @@
+soil_id,region,soil_type,ph_level,nitrogen_ppm,phosphorus_ppm,potassium_ppm,organic_matter_percent,calcium_ppm,magnesium_ppm,sulfur_ppm
+S001,Punjab,Alluvial,7.2,240,25,180,2.1,400,80,15
+S002,Haryana,Sandy Loam,6.8,180,18,150,1.8,350,70,12
+S003,UP,Clay,7.5,320,35,220,2.5,450,90,18
+S004,Bihar,Silt Loam,6.9,200,22,160,2.2,380,75,14
+S005,Maharashtra,Black Soil,7.8,280,30,200,3.2,520,100,20
+S006,Karnataka,Red Soil,6.2,150,15,130,1.5,300,60,10
+S007,Tamil Nadu,Laterite,5.8,120,12,110,1.2,250,50,8
+S008,Gujarat,Desert,8.1,90,8,80,0.8,200,40,6
+S009,Rajasthan,Sandy,7.9,110,10,90,1.0,220,45,7
+S010,West Bengal,Alluvial,6.5,260,28,190,2.8,420,85,16
+S011,Odisha,Red Laterite,6.0,140,14,120,1.4,280,55,9
+S012,MP,Black Cotton,7.4,300,32,210,2.9,480,95,19
+S013,AP,Red Sandy,6.1,160,16,140,1.6,320,65,11
+S014,Kerala,Laterite,5.9,130,13,115,1.3,270,52,8
+S015,Assam,Alluvial,6.7,220,24,170,2.4,390,78,13

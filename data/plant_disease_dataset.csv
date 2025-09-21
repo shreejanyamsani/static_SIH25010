@@ -1,0 +1,13 @@
+pest_disease_name,crop_affected,type,symptoms,image_keywords,treatment,organic_solution,chemical_solution,prevention_method,severity_level
+Brown Spot,Rice,Disease,"Brown spots on leaves, reduced grain quality","brown spots leaves rice","Fungicide spray","Neem oil + Garlic extract","Tricyclazole 75% WP","Proper spacing, avoid over-irrigation",Medium
+Stem Borer,Rice,Pest,"Dead hearts, white ears, holes in stem","holes stem borer rice","Insecticide application","Trichogramma release","Chlorpyrifos 20% EC","Clean cultivation, resistant varieties",High
+Aphids,Wheat,Pest,"Curled leaves, sticky honeydew, yellowing","aphids green insects wheat","Spray treatment","Ladybird beetles, Neem oil","Imidacloprid 17.8% SL","Regular monitoring, balanced fertilization",Low
+Rust,Wheat,Disease,"Orange pustules on leaves and stem","rust orange wheat leaves","Fungicide treatment","Copper oxychloride","Propiconazole 25% EC","Disease-free seeds, crop rotation",High
+Fall Armyworm,Maize,Pest,"Irregular holes in leaves, frass presence","holes leaves caterpillar maize","Biocontrol agents","Bacillus thuringiensis","Spinetoram 11.7% SC","Pheromone traps, intercropping",High
+Blight,Potato,Disease,"Dark lesions on leaves and tubers","dark spots potato leaves","Fungicide spray","Bordeaux mixture","Metalaxyl + Mancozeb","Certified seeds, proper drainage",High
+Whitefly,Tomato,Pest,"Yellow leaves, sooty mold, virus transmission","white flying insects tomato","Yellow sticky traps","Reflective mulch, Neem oil","Acetamiprid 20% SP","Remove infected plants, crop rotation",Medium
+Late Blight,Tomato,Disease,"Dark water-soaked lesions, white mold","dark lesions tomato leaves","Preventive spraying","Copper sulfate","Cymoxanil + Mancozeb","Avoid overhead irrigation, spacing",High
+Thrips,Chili,Pest,"Silver streaks on leaves, deformed fruits","silver streaks chili leaves","Blue sticky traps","Predatory mites","Fipronil 5% SC","Weed control, reflective mulch",Medium
+Powdery Mildew,Cabbage,Disease,"White powdery growth on leaves","white powder cabbage leaves","Sulfur dusting","Milk spray, Baking soda","Hexaconazole 5% SC","Proper ventilation, avoid crowding",Low
+Root Rot,Carrot,Disease,"Wilting plants, black roots","wilting carrot black roots","Soil treatment","Trichoderma application","Carbendazim 50% WP","Well-drained soil, crop rotation",Medium
+Leaf Miner,Spinach,Pest,"Serpentine mines in leaves","white trails spinach leaves","Remove affected leaves","Neem cake application","Abamectin 1.9% EC","Regular inspection, clean cultivation",Low
