@@ -19,7 +19,7 @@ def main():
     
     # Page configuration
     st.set_page_config(
-        page_title="🌾 AgriAdvisor Pro",
+        page_title="🌾 Sohna Kheti Saathi",
         page_icon="🌾",
         layout="wide",
         initial_sidebar_state="expanded"
@@ -56,7 +56,7 @@ def main():
     # Main header
     st.markdown("""
         <div class="main-header">
-            <h1>🌾 AgriAdvisor Pro - Smart Farming Solutions</h1>
+            <h1>🌾 Sohna Kheti Saathi - Smart Farming Solutions</h1>
             <p>Your comprehensive agricultural advisory platform</p>
         </div>
     """, unsafe_allow_html=True)
